@@ -20,10 +20,10 @@ Spelling a component incorrectly though very simple, happens occasionally.
 
 ```
 // Incorrect
-import { Listitem } from 'react-native-elements'
+import { Listitem } from 'react-native-elements-kpay'
 
 // Correct
-import { ListItem } from 'react-native-elements'
+import { ListItem } from 'react-native-elements-kpay'
 ```
 
 ### Importing a component from the wrong version
@@ -40,11 +40,11 @@ available in `v1.0.0-beta1` and higher.
 
 To fix this, follow these steps:
 
-1. Check your `package.json` for the version of `react-native-elements` you are
+1. Check your `package.json` for the version of `react-native-elements-kpay` you are
    using.
 2. View the documentation for your particular version on the website. See
    available versions
-   [here](https://react-native-training.github.io/react-native-elements/versions.html)
+   [here](https://react-native-training.github.io/react-native-elements-kpay/versions.html)
    or click the version number next to the logo in the header.
 3. Checking the list of components on the left side bar, make sure you're using
    the right component.
@@ -81,10 +81,10 @@ rm -rf node_modules yarn.lock package-lock.json
 
 ```bash
 # npm
-npm install && npm install react-native-elements --save
+npm install && npm install react-native-elements-kpay --save
 
 # yarn
-yarn && yarn add react-native-elements
+yarn && yarn add react-native-elements-kpay
 ```
 
 3. Install react-native-vector-icons
@@ -135,10 +135,10 @@ rm -rf node_modules yarn.lock package-lock.json
 
 ```bash
 # npm
-npm install && npm install react-native-elements --save
+npm install && npm install react-native-elements-kpay --save
 
 # yarn
-yarn && yarn add react-native-elements
+yarn && yarn add react-native-elements-kpay
 ```
 
 3. Install `@expo/vector-icons`

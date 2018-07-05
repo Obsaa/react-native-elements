@@ -4,12 +4,12 @@ title: ListItem
 original_id: listitem
 ---
 
-![Lists](/react-native-elements/img/lists.png)
+![Lists](/react-native-elements-kpay/img/lists.png)
 
 #### Using Map Function. Implemented with avatar.
 
 ```js
-import { ListItem } from 'react-native-elements'
+import { ListItem } from 'react-native-elements-kpay'
 
 const list = [
   {
@@ -42,7 +42,7 @@ const list = [
 #### Using Map Function. Implemented with link and icon.
 
 ```js
-import { ListItem } from 'react-native-elements'
+import { ListItem } from 'react-native-elements-kpay'
 
 const list = [
   {
@@ -72,7 +72,7 @@ const list = [
 #### Using RN FlatList. Implemented with link and avatar.
 
 ```js
-import { ListItem } from 'react-native-elements'
+import { ListItem } from 'react-native-elements-kpay'
 
 const list = [
   {
@@ -113,7 +113,7 @@ render () {
 #### Using RN FlatList. Implemented with custom avatar component.
 
 ```js
-import { ListItem } from 'react-native-elements'
+import { ListItem } from 'react-native-elements-kpay'
 
 const list = [
   {
@@ -155,7 +155,7 @@ render () {
 #### ListItem implemented with custom View for Subtitle
 
 ```js
-import { ListItem } from 'react-native-elements'
+import { ListItem } from 'react-native-elements-kpay'
 
 render () {
   return (
@@ -191,7 +191,7 @@ styles = StyleSheet.create({
 
 #### Badges
 
-![Badges](/react-native-elements/img/list-badges.jpeg)
+![Badges](/react-native-elements-kpay/img/list-badges.jpeg)
 
 Example badge usage
 
@@ -204,7 +204,7 @@ Example badge usage
 
 #### Linear gradient + Scale feedback
 
-<img src="/react-native-elements/img/listitem_with_gradient_scale.gif" width="500" >
+<img src="/react-native-elements-kpay/img/listitem_with_gradient_scale.gif" width="500" >
 
 ```js
 import LinearGradient from 'react-native-linear-gradient' // Only if no expo
@@ -505,7 +505,7 @@ displays an icon on the left (optional)
 
 |                                             Type                                              | Default |
 | :-------------------------------------------------------------------------------------------: | :-----: |
-| {[...Icon props](/react-native-elements/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
+| {[...Icon props](/react-native-elements-kpay/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
 
 ---
 
@@ -515,7 +515,7 @@ displays an icon on the right (optional)
 
 |                                             Type                                              | Default |
 | :-------------------------------------------------------------------------------------------: | :-----: |
-| {[...Icon props](/react-native-elements/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
+| {[...Icon props](/react-native-elements-kpay/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
 
 ---
 
@@ -525,7 +525,7 @@ displays an Avatar on the left (optional)
 
 |                                                Type                                                 | Default |
 | :-------------------------------------------------------------------------------------------------: | :-----: |
-| {[...Avatar props](/react-native-elements/docs/avatar.html#avatar-props)}<br/>**OR**<br/> component |  none   |
+| {[...Avatar props](/react-native-elements-kpay/docs/avatar.html#avatar-props)}<br/>**OR**<br/> component |  none   |
 
 ---
 
@@ -535,7 +535,7 @@ displays an Avatar on the right (optional)
 
 |                                                          Type                                                          | Default |
 | :--------------------------------------------------------------------------------------------------------------------: | :-----: |
-| View style (object){[...Avatar props](/react-native-elements/docs/avatar.html#avatar-props)}<br/>**OR**<br/> component |  none   |
+| View style (object){[...Avatar props](/react-native-elements-kpay/docs/avatar.html#avatar-props)}<br/>**OR**<br/> component |  none   |
 
 ---
 
@@ -575,7 +575,7 @@ add an Input on the right side (object with the props of the React Native Elemen
 
 |                                  Type                                  | Default |
 | :--------------------------------------------------------------------: | :-----: |
-| {[...Input props](/react-native-elements/docs/input.html#input-props)} |  none   |
+| {[...Input props](/react-native-elements-kpay/docs/input.html#input-props)} |  none   |
 
 ---
 
@@ -585,7 +585,7 @@ add a button group on the right side (object with the props of the React Native 
 
 |                                           Type                                            | Default |
 | :---------------------------------------------------------------------------------------: | :-----: |
-| {[...ButtonGroup props](/react-native-elements/docs/button_group.html#buttongroup-props)} |  none   |
+| {[...ButtonGroup props](/react-native-elements-kpay/docs/button_group.html#buttongroup-props)} |  none   |
 
 ---
 
@@ -595,7 +595,7 @@ add a checkbox on the right side (object with the props of the React Native Elem
 
 |                                      Type                                       | Default |
 | :-----------------------------------------------------------------------------: | :-----: |
-| {[...CheckBox props](/react-native-elements/docs/checkbox.html#checkbox-props)} |  none   |
+| {[...CheckBox props](/react-native-elements-kpay/docs/checkbox.html#checkbox-props)} |  none   |
 
 ---
 
@@ -605,7 +605,7 @@ add a badge on the right side (object with the props of the React Native Element
 
 |                                  Type                                  | Default |
 | :--------------------------------------------------------------------: | :-----: |
-| {[...Badge props](/react-native-elements/docs/badge.html#badge-props)} |  none   |
+| {[...Badge props](/react-native-elements-kpay/docs/badge.html#badge-props)} |  none   |
 
 ---
 

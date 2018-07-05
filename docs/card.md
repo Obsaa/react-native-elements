@@ -3,7 +3,7 @@ id: card
 title: Card
 ---
 
-![Card Component](/react-native-elements/img/card.png)
+![Card Component](/react-native-elements-kpay/img/card.png)
 
 ```js
 const users = [
@@ -15,7 +15,7 @@ const users = [
 ]
 
 import { View, Text, Image } from 'react-native'
-import { Card, ListItem, Button, Icon } from 'react-native-elements'
+import { Card, ListItem, Button, Icon } from 'react-native-elements-kpay'
 
 // implemented without image with header
 <Card title="CARD WITH DIVIDER">

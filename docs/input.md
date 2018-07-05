@@ -3,11 +3,11 @@ id: input
 title: Input
 ---
 
-<img src="/react-native-elements/img/input.png" width="300"/>
+<img src="/react-native-elements-kpay/img/input.png" width="300"/>
 
 ```js
 import Icon from 'react-native-vector-icons/FontAwesome';
-import { Input } from 'react-native-elements';
+import { Input } from 'react-native-elements-kpay';
 
 <Input
   placeholder='BASIC INPUT'
@@ -140,7 +140,7 @@ displays an icon on the left (optional)
 
 |                                             Type                                              | Default |
 | :-------------------------------------------------------------------------------------------: | :-----: |
-| {[...Icon props](/react-native-elements/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
+| {[...Icon props](/react-native-elements-kpay/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
 
 ---
 
@@ -160,7 +160,7 @@ displays an icon on the right (optional)
 
 |                                             Type                                              | Default |
 | :-------------------------------------------------------------------------------------------: | :-----: |
-| {[...Icon props](/react-native-elements/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
+| {[...Icon props](/react-native-elements-kpay/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
 
 ---
 
@@ -188,4 +188,4 @@ add shaking effect to input component (optional)
 
 | Input with a label and an error message                                | Styles explanation                                                  |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <img src="/react-native-elements/img/input_without_explanation.png" /> | <img src="/react-native-elements/img/input_with_explanation.png" /> |
+| <img src="/react-native-elements-kpay/img/input_without_explanation.png" /> | <img src="/react-native-elements-kpay/img/input_with_explanation.png" /> |

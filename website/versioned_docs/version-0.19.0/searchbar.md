@@ -4,10 +4,10 @@ title: SearchBar
 original_id: searchbar
 ---
 
-<img src="/react-native-elements/img/searchbar.png" width="300" >
+<img src="/react-native-elements-kpay/img/searchbar.png" width="300" >
 
 ```js
-import { SearchBar } from 'react-native-elements'
+import { SearchBar } from 'react-native-elements-kpay'
 
 <SearchBar
   onChangeText={someMethod}

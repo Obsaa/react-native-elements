@@ -9,8 +9,8 @@ const siteConfig = {
   title: 'React Native Elements' /* title for your website */,
   tagline: 'Cross Platform React Native UI Toolkit',
   url: 'https://react-native-training.github.io/' /* your website url */,
-  baseUrl: '/react-native-elements/' /* base url for your project */,
-  projectName: 'react-native-elements',
+  baseUrl: '/react-native-elements-kpay/' /* base url for your project */,
+  projectName: 'react-native-elements-kpay',
   organizationName: 'react-native-training',
   defaultVersionShown: '0.19.0',
   headerLinks: [
@@ -18,7 +18,7 @@ const siteConfig = {
     { doc: 'overview', label: 'Components' },
     { page: 'help', label: 'Help' },
     {
-      href: 'https://github.com/react-native-training/react-native-elements',
+      href: 'https://github.com/react-native-training/react-native-elements-kpay',
       label: 'Github',
     },
     // { blog: true, label: 'Blog' },
@@ -45,10 +45,10 @@ const siteConfig = {
     theme: 'default',
   },
   editUrl:
-    'https://github.com/react-native-training/react-native-elements/edit/master/docs/',
+    'https://github.com/react-native-training/react-native-elements-kpay/edit/master/docs/',
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: 'https://github.com/react-native-training/react-native-elements',
+  repoUrl: 'https://github.com/react-native-training/react-native-elements-kpay',
 };
 
 module.exports = siteConfig;

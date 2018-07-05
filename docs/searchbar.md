@@ -5,7 +5,7 @@ title: SearchBar
 
 ## Default SearchBar
 
-<img src="/react-native-elements/img/searchbar.png" width="300" >
+<img src="/react-native-elements-kpay/img/searchbar.png" width="300" >
 
 ## Platform specific SearchBar
 
@@ -18,7 +18,7 @@ title: SearchBar
 <img src="https://user-images.githubusercontent.com/17592779/31586716-f6e8ff9c-b1d4-11e7-918f-2a7e11d51b08.gif" width="300">
 
 ```js
-import { SearchBar } from 'react-native-elements'
+import { SearchBar } from 'react-native-elements-kpay'
 
 <SearchBar
   onChangeText={someMethod}
@@ -72,7 +72,7 @@ import { SearchBar } from 'react-native-elements'
 
 ### Props
 
-> This component inherits all [React Native Elements Input props](/react-native-elements/docs/input.html#props), which means [all native TextInput props that come with a standard React Native TextInput element](https://facebook.github.io/react-native/docs/textinput.html), along with the following:
+> This component inherits all [React Native Elements Input props](/react-native-elements-kpay/docs/input.html#props), which means [all native TextInput props that come with a standard React Native TextInput element](https://facebook.github.io/react-native/docs/textinput.html), along with the following:
 
 * [`platform`](#platform)
 * [`clearIcon`](#clearicon)
@@ -116,7 +116,7 @@ Use `null` or `false` to hide the icon.
 
 |                                             Type                                              | Default |
 | :-------------------------------------------------------------------------------------------: | :-----: |
-| {[...Icon props](/react-native-elements/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
+| {[...Icon props](/react-native-elements-kpay/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
 
 ---
 
@@ -127,7 +127,7 @@ Use `null` or `false` to hide the icon.
 
 |                                             Type                                              | Default |
 | :-------------------------------------------------------------------------------------------: | :-----: |
-| {[...Icon props](/react-native-elements/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
+| {[...Icon props](/react-native-elements-kpay/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
 
 ---
 
@@ -138,7 +138,7 @@ Use `null` or `false` to hide the icon.
 
 |                                             Type                                              | Default |
 | :-------------------------------------------------------------------------------------------: | :-----: |
-| {[...Icon props](/react-native-elements/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
+| {[...Icon props](/react-native-elements-kpay/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
 
 ---
 

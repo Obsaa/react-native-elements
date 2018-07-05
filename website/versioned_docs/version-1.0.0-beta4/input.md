@@ -4,11 +4,11 @@ title: Input
 original_id: input
 ---
 
-<img src="/react-native-elements/img/input.png" width="300"/>
+<img src="/react-native-elements-kpay/img/input.png" width="300"/>
 
 ```js
 import Icon from 'react-native-vector-icons/FontAwesome';
-import { Input } from 'react-native-elements';
+import { Input } from 'react-native-elements-kpay';
 
 <Input
   placeholder='BASIC INPUT'
@@ -184,4 +184,4 @@ add shaking effect to input component (optional)
 
 | Input with a label and an error message                                 | Styles explanation                                                  |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
-|<img src="/react-native-elements/img/input_without_explanation.png" />   | <img src="/react-native-elements/img/input_with_explanation.png" /> |
+|<img src="/react-native-elements-kpay/img/input_without_explanation.png" />   | <img src="/react-native-elements-kpay/img/input_with_explanation.png" /> |

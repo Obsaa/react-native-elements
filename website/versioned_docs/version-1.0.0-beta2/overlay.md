@@ -4,7 +4,7 @@ title: Overlay
 original_id: overlay
 ---
 
-<img src="/react-native-elements/img/overlay.png" width="400" >
+<img src="/react-native-elements-kpay/img/overlay.png" width="400" >
 
 ```js
 <Overlay isVisible={this.state.isVisible}>

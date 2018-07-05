@@ -9,10 +9,10 @@ An extendable Ratings components for React Native with gestures and an intuitive
 
 ### Demo
 
-<img src="/react-native-elements/img/rating_component.gif" width="500" >
+<img src="/react-native-elements-kpay/img/rating_component.gif" width="500" >
 
 ```js
-import { Rating } from 'react-native-elements';
+import { Rating } from 'react-native-elements-kpay';
 
 ratingCompleted(rating) {
   console.log("Rating is: " + rating)
@@ -74,7 +74,7 @@ const { rating } = this.props;
 />
 ```
 
-![readonly demo jpg](/react-native-elements/img/rating_readonly.jpg)
+![readonly demo jpg](/react-native-elements-kpay/img/rating_readonly.jpg)
 
 ##### Fractions
 

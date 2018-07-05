@@ -21,10 +21,10 @@ With that many use cases, bugs are sure to come up from time to time. We release
 so sometimes we may accidentally miss something along the way. When you think you've found a bug here's what to do:
 
 1. Check your version. Most of the time, a fix has been made and released in new a new version. However, you may still
-   be on an old version. The easiest way to validate this, it to update your version of react-native-elements to the latest.
+   be on an old version. The easiest way to validate this, it to update your version of react-native-elements-kpay to the latest.
 
-2. Search the existing [issues](https://github.com/react-native-training/react-native-elements/issues) and
-   [pull requests](https://github.com/react-native-training/react-native-elements/pulls) for one like what you're seeing.
+2. Search the existing [issues](https://github.com/react-native-training/react-native-elements-kpay/issues) and
+   [pull requests](https://github.com/react-native-training/react-native-elements-kpay/pulls) for one like what you're seeing.
    If you see one, add a 👍 reaction (please no +1 comments). Read through the comments and see if you can
    provide anymore valuable information to the thread. The more use cases we have, the easier it is to solve the issue.
 
@@ -129,12 +129,12 @@ Be sure to check out the documentation over at [docusaurus.io](https://docusauru
 If you wish to submit a pull request for a new feature or issue then this is guide for you. On Github,
 we extensively use labels to reflect the content and status of issues.
 
-For all issues that are bugs check [here](https://github.com/react-native-training/react-native-elements/issues?q=is%3Aissue+is%3Aopen+label%3Abug).
+For all issues that are bugs check [here](https://github.com/react-native-training/react-native-elements-kpay/issues?q=is%3Aissue+is%3Aopen+label%3Abug).
 
 Improvements are separated into two categories:
 
-* [New components](https://github.com/react-native-training/react-native-elements/issues?q=is%3Aissue+is%3Aopen+label%3A%22New+Component%22).
-* [Enhancements](https://github.com/react-native-training/react-native-elements/issues?q=is%3Aissue+is%3Aopen+label%3AEnhancement).
+* [New components](https://github.com/react-native-training/react-native-elements-kpay/issues?q=is%3Aissue+is%3Aopen+label%3A%22New+Component%22).
+* [Enhancements](https://github.com/react-native-training/react-native-elements-kpay/issues?q=is%3Aissue+is%3Aopen+label%3AEnhancement).
 
 Check out the [Labels guide](labels.md) for a more descriptive info on our usage of labels.
 
@@ -145,8 +145,8 @@ To begin you should start by forking this repository first. This should get you 
 ### Setup
 
 * Install [Node.js](https://nodejs.org/) if you have not already. (_We suggest you to use node v6.x.x_)
-* Fork the **react-native-elements** repo [here](https://github.com/react-native-training/react-native-elements)
-* `git clone <your-forked-repo-url> && cd react-native-elements`
+* Fork the **react-native-elements-kpay** repo [here](https://github.com/react-native-training/react-native-elements-kpay)
+* `git clone <your-forked-repo-url> && cd react-native-elements-kpay`
 * `yarn install` OR `npm install`
 * `npm test`
 

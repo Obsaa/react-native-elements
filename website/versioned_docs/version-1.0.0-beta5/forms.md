@@ -4,10 +4,10 @@ title: Forms
 original_id: forms
 ---
 
-![Forms](/react-native-elements/img/forms_fields.png)
+![Forms](/react-native-elements-kpay/img/forms_fields.png)
 
 ```js
-import { FormLabel, FormInput } from 'react-native-elements'
+import { FormLabel, FormInput } from 'react-native-elements-kpay'
 
 <FormLabel>Name</FormLabel>
 <FormInput onChangeText={someFunction}/>
@@ -16,13 +16,13 @@ import { FormLabel, FormInput } from 'react-native-elements'
 
 #### FormValidationMessage example
 
-##### The [FormValidationMessage](https://react-native-training.github.io/react-native-elements/API/forms/#formvalidationmessage-props) component is just a styled text. You have to implement for now the logic of errors. Basically, if you have an error, display the FormValidationMesage, if not, display nothing.
+##### The [FormValidationMessage](https://react-native-training.github.io/react-native-elements-kpay/API/forms/#formvalidationmessage-props) component is just a styled text. You have to implement for now the logic of errors. Basically, if you have an error, display the FormValidationMesage, if not, display nothing.
 
 ```js
 <FormValidationMessage>{'This field is required'}</FormValidationMessage>
 ```
 
-![FormValidationMessage example](/react-native-elements/img/forms_validation.png)
+![FormValidationMessage example](/react-native-elements-kpay/img/forms_validation.png)
 
 ### FormInput Props
 

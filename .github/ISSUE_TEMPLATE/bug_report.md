@@ -4,7 +4,7 @@ about: Create a report to help us improve
 
 ---
 
-> Before filling out an issue, be sure to check the version of react-native-elements you are using and the docs for that version over [here](https://react-native-training.github.io/react-native-elements/versions.html).
+> Before filling out an issue, be sure to check the version of react-native-elements-kpay you are using and the docs for that version over [here](https://react-native-training.github.io/react-native-elements-kpay/versions.html).
 
 **Explain what you did**
 What you were trying to accomplish.
@@ -41,6 +41,6 @@ If applicable, add screenshots to help explain your problem.
 
 | software | version |
 | -- | -- |
-| react-native-elements | |
+| react-native-elements-kpay | |
 | react-native | |
 | npm or yarn | |

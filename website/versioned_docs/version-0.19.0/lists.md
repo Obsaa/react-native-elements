@@ -4,12 +4,12 @@ title: Lists
 original_id: lists
 ---
 
-![Lists](/react-native-elements/img/lists.png)
+![Lists](/react-native-elements-kpay/img/lists.png)
 
 #### Using Map Function. Implemented with avatar.
 
 ```js
-import { List, ListItem } from 'react-native-elements'
+import { List, ListItem } from 'react-native-elements-kpay'
 
 const list = [
   {
@@ -42,7 +42,7 @@ const list = [
 #### Using Map Function. Implemented with link and icon.
 
 ```js
-import { List, ListItem } from 'react-native-elements'
+import { List, ListItem } from 'react-native-elements-kpay'
 
 const list = [
   {
@@ -72,7 +72,7 @@ const list = [
 #### Using RN ListView. Implemented with link and avatar.
 
 ```js
-import { List, ListItem } from 'react-native-elements'
+import { List, ListItem } from 'react-native-elements-kpay'
 
 const list = [
   {
@@ -115,7 +115,7 @@ render () {
 #### Using RN ListView. Implemented with custom avatar component.
 
 ```js
-import { List, ListItem } from 'react-native-elements'
+import { List, ListItem } from 'react-native-elements-kpay'
 
 const list = [
   {
@@ -160,7 +160,7 @@ render () {
 #### ListItem implemented with custom View for Subtitle
 
 ```js
-import { List, ListItem } from 'react-native-elements'
+import { List, ListItem } from 'react-native-elements-kpay'
 
 render () {
   return (
@@ -882,7 +882,7 @@ additional wrapper styling (optional)
 
 ## Badges
 
-![Badges](/react-native-elements/img/list-badges.jpeg)
+![Badges](/react-native-elements-kpay/img/list-badges.jpeg)
 
 Example badge usage
 

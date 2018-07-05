@@ -51,13 +51,13 @@ class Footer extends React.Component {
               Chat with us on Slack
             </a>
             <a
-              href="https://github.com/react-native-training/react-native-elements/issues/"
+              href="https://github.com/react-native-training/react-native-elements-kpay/issues/"
               target="_blank"
             >
               Submit a bug or feature
             </a>
             <a
-              href="https://opencollective.com/react-native-elements"
+              href="https://opencollective.com/react-native-elements-kpay"
               target="_blank"
             >
               Support us on Open Collective

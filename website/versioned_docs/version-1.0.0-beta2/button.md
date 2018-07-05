@@ -6,10 +6,10 @@ original_id: button
 
 Buttons can be used to interact with the screen. It takes the following props.
 
-<img src="/react-native-elements/img/buttons.png" width="300" />
+<img src="/react-native-elements-kpay/img/buttons.png" width="300" />
 
 ```js
-import { Button } from 'react-native-elements';
+import { Button } from 'react-native-elements-kpay';
 import Icon from 'react-native-vector-icons/FontAwesome';
 
 <Button

@@ -4,10 +4,10 @@ title: CheckBox
 original_id: checkbox
 ---
 
-![Checkboxes](/react-native-elements/img/checkbox.png)
+![Checkboxes](/react-native-elements-kpay/img/checkbox.png)
 
 ```js
-import { CheckBox } from 'react-native-elements'
+import { CheckBox } from 'react-native-elements-kpay'
 
 <CheckBox
   title='Click Here'

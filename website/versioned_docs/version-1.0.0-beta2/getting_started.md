@@ -94,29 +94,29 @@ Installing React Native Elements depends on your type of react native project.
 <block class="expo" />
 
 [Expo](https://expo.io) or [create-react-native-app](https://github.com/react-community/create-react-native-app) projects include **react-native-vector-icons** out of the box, so all you need to do
-is install **react-native-elements**.
+is install **react-native-elements-kpay**.
 
 ```
-yarn add react-native-elements@1.0.0-beta2
+yarn add react-native-elements-kpay@1.0.0-beta2
 # or with npm
-npm install --save react-native-elements@1.0.0-beta2
+npm install --save react-native-elements-kpay@1.0.0-beta2
 ```
 
 > **Note:**
 > If you see the `UNMET PEER DEPENDENCY` warning for **react-native-vector-icons** like below, you can ignore it as _react-native-vector-icons_ is already installed by _expo_ or _crna_.
 >
-> ![React Native Vector Icons Unmet Peer Dependency](/react-native-elements/img/peer-dep-error.png)
+> ![React Native Vector Icons Unmet Peer Dependency](/react-native-elements-kpay/img/peer-dep-error.png)
 
 <block class="native" />
 
 If your project is a standard React Native project created using `react-native init` (it should have an ios/android directory), then follow these installation instructions:
 
-### Step 1: Install react-native-elements
+### Step 1: Install react-native-elements-kpay
 
 ```
-yarn add react-native-elements@1.0.0-beta2
+yarn add react-native-elements-kpay@1.0.0-beta2
 # or with npm
-npm i react-native-elements@1.0.0-beta2 --save
+npm i react-native-elements-kpay@1.0.0-beta2 --save
 ```
 
 ### Step 2: Install react-native-vector-icons
@@ -133,7 +133,7 @@ npm i --save react-native-vector-icons
 react-native link react-native-vector-icons
 ```
 
-_If you have any issues installing react-native-vector-icons, check out their installation guide [here](https://github.com/oblador/react-native-vector-icons#installation) or debug it using [this issue](https://github.com/react-native-training/react-native-elements/issues/503)._
+_If you have any issues installing react-native-vector-icons, check out their installation guide [here](https://github.com/oblador/react-native-vector-icons#installation) or debug it using [this issue](https://github.com/react-native-training/react-native-elements-kpay/issues/503)._
 
 <script>
   function displayTab(value) {

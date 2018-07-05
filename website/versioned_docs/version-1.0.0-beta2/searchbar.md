@@ -6,7 +6,7 @@ original_id: searchbar
 
 ## Default SearchBar
 
-<img src="/react-native-elements/img/searchbar.png" width="300" >
+<img src="/react-native-elements-kpay/img/searchbar.png" width="300" >
 
 ## Platform specific SearchBar
 
@@ -19,7 +19,7 @@ original_id: searchbar
 <img src="https://user-images.githubusercontent.com/17592779/31586716-f6e8ff9c-b1d4-11e7-918f-2a7e11d51b08.gif" width="300">
 
 ```js
-import { SearchBar } from 'react-native-elements'
+import { SearchBar } from 'react-native-elements-kpay'
 
 <SearchBar
   onChangeText={someMethod}

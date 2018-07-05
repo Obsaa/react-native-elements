@@ -4,7 +4,7 @@ title: Header
 original_id: header
 ---
 
-![Header](/react-native-elements/img/header.png)
+![Header](/react-native-elements-kpay/img/header.png)
 
 ### Header with default components
 
@@ -148,7 +148,7 @@ styling for outer container
 
 |      Type      |                                                                     Default                                                                     |
 | :------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
-| object (style) | [source](https://github.com/react-native-training/react-native-elements/blob/1f06e20e7742b87be696cf3921979afdfdd87315/src/header/Header.js#L91) |
+| object (style) | [source](https://github.com/react-native-training/react-native-elements-kpay/blob/1f06e20e7742b87be696cf3921979afdfdd87315/src/header/Header.js#L91) |
 
 ---
 
@@ -158,4 +158,4 @@ styling for inner container
 
 |      Type      |                                                                     Default                                                                     |
 | :------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
-| object (style) | [source](https://github.com/react-native-training/react-native-elements/blob/1f06e20e7742b87be696cf3921979afdfdd87315/src/header/Header.js#L85) |
+| object (style) | [source](https://github.com/react-native-training/react-native-elements-kpay/blob/1f06e20e7742b87be696cf3921979afdfdd87315/src/header/Header.js#L85) |

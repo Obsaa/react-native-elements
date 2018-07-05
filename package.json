@@ -1,5 +1,5 @@
 {
-  "name": "react-native-elements",
+  "name": "react-native-elements-kpay",
   "version": "1.0.0-beta5",
   "description": "React Native Elements & UI Toolkit",
   "main": "src/index.js",
@@ -23,13 +23,13 @@
   "author": "Nader Dabit & Monte Thakkar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-native-training/react-native-elements/issues"
+    "url": "https://github.com/react-native-training/react-native-elements-kpay/issues"
   },
-  "homepage": "https://github.com/react-native-training/react-native-elements#readme",
+  "homepage": "https://github.com/react-native-training/react-native-elements-kpay#readme",
   "collective": {
     "type": "opencollective",
-    "url": "https://opencollective.com/react-native-elements",
-    "logo": "https://opencollective.com/react-native-elements/logo.txt"
+    "url": "https://opencollective.com/react-native-elements-kpay",
+    "logo": "https://opencollective.com/react-native-elements-kpay/logo.txt"
   },
   "dependencies": {
     "lodash.isempty": "^4.4.0",
@@ -91,6 +91,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-training/react-native-elements.git"
+    "url": "git+https://github.com/react-native-training/react-native-elements-kpay.git"
   }
 }

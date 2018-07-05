@@ -2,15 +2,15 @@
 
 # Configure user
 git config --global user.name "React Native Elements CI"
-echo -e "machine github.com\n login react-native-elements-ci\n password $GITHUB_TOKEN" >> ~/.netrc
+echo -e "machine github.com\n login react-native-elements-kpay-ci\n password $GITHUB_TOKEN" >> ~/.netrc
 
 # Expo auto deployment for PRs
-if [ "$TRAVIS_PULL_REQUEST" != "false" -a "$TRAVIS_PULL_REQUEST_SLUG" == "react-native-training/react-native-elements" ]; then
+if [ "$TRAVIS_PULL_REQUEST" != "false" -a "$TRAVIS_PULL_REQUEST_SLUG" == "react-native-training/react-native-elements-kpay" ]; then
   set -x
 
   # Clone example app and install modules
-  git clone "https://github.com/react-native-training/react-native-elements-app.git"
-  cd react-native-elements-app
+  git clone "https://github.com/react-native-training/react-native-elements-kpay-app.git"
+  cd react-native-elements-kpay-app
   yarn add "https://github.com/${TRAVIS_PULL_REQUEST_SLUG}.git#${TRAVIS_PULL_REQUEST_SHA}"
   yarn
   yarn global add exp

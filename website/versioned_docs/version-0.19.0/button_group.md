@@ -6,7 +6,7 @@ original_id: button_group
 
 ### [Snack Demo](https://snack.expo.io/BJZpMm3ob)
 
-![ButtonGroup](/react-native-elements/img/button_group.png)
+![ButtonGroup](/react-native-elements-kpay/img/button_group.png)
 
 ### Using strings
 

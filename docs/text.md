@@ -3,7 +3,7 @@ id: text
 title: Text
 ---
 
-![Text](/react-native-elements/img/text.png)
+![Text](/react-native-elements-kpay/img/text.png)
 
 ```js
 <Text h1>Heading 1</Text>

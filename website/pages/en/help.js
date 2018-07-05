@@ -27,7 +27,7 @@ class Help extends React.Component {
         title: 'Join the community',
       },
       {
-        content: `Find out what's new for each release by checking the [releases tab on the Github repo.](https://github.com/react-native-training/react-native-elements/releases)`,
+        content: `Find out what's new for each release by checking the [releases tab on the Github repo.](https://github.com/react-native-training/react-native-elements-kpay/releases)`,
         title: 'Stay up to date',
       },
     ];
@@ -44,7 +44,7 @@ class Help extends React.Component {
               some point. If you've encountered a bug with React Native
               Elements, please{' '}
               <a
-                href="https://github.com/react-native-training/react-native-elements/issues/new"
+                href="https://github.com/react-native-training/react-native-elements-kpay/issues/new"
                 target="_blank"
               >
                 post an issue
@@ -53,7 +53,7 @@ class Help extends React.Component {
               question's too silly to ask but we recommend checking the
               documentation and{' '}
               <a
-                href="https://github.com/react-native-training/react-native-elements/issues?utf8=✓&q="
+                href="https://github.com/react-native-training/react-native-elements-kpay/issues?utf8=✓&q="
                 target="_blank"
               >
                 existing issues

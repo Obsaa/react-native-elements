@@ -3,9 +3,9 @@ id: avatar
 title: Avatar
 ---
 
-<img src="/react-native-elements/img/avatar_all.png" width="500" >
+<img src="/react-native-elements-kpay/img/avatar_all.png" width="500" >
 
-<img src="/react-native-elements/img/avatar_with_images.png" width="500" >
+<img src="/react-native-elements-kpay/img/avatar_with_images.png" width="500" >
 
 ```js
 <Avatar
@@ -38,7 +38,7 @@ title: Avatar
 
 #### Avatar with initials
 
-<img src="/react-native-elements/img/avatar_with_initials.png" width="500" >
+<img src="/react-native-elements-kpay/img/avatar_with_initials.png" width="500" >
 
 ```js
 <Avatar
@@ -71,7 +71,7 @@ title: Avatar
 
 #### Avatar with icons
 
-<img src="/react-native-elements/img/avatar_with_icons.png" width="500" >
+<img src="/react-native-elements-kpay/img/avatar_with_icons.png" width="500" >
 
 ```js
 <Avatar

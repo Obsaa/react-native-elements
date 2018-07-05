@@ -1,5 +1,5 @@
 {
-  "name": "react-native-elements-ci",
+  "name": "react-native-elements-kpay-ci",
   "version": "1.0.0",
   "description": "Script for CI on React Native Elements ",
   "main": "index.js",

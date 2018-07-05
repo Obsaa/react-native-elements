@@ -3,10 +3,10 @@ id: social_icon
 title: SocialIcon
 ---
 
-![Social Icons](/react-native-elements/img/social-icons.png)
+![Social Icons](/react-native-elements-kpay/img/social-icons.png)
 
 ```js
-import { SocialIcon } from 'react-native-elements'
+import { SocialIcon } from 'react-native-elements-kpay'
 
 // Icon
 <SocialIcon

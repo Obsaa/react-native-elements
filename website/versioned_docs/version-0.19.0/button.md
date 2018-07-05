@@ -12,10 +12,10 @@ below.
 > simple-line-icon, zocial, font-awesome, octicon, ionicon, foundation,
 > evilicon, or entypo by providing an icon.type as a prop.
 
-![Buttons](/react-native-elements/img/buttons_0.19.png)
+![Buttons](/react-native-elements-kpay/img/buttons_0.19.png)
 
 ```js
-import { Button } from 'react-native-elements'
+import { Button } from 'react-native-elements-kpay'
 
 <Button
   title='BUTTON' />

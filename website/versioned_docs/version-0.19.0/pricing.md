@@ -4,10 +4,10 @@ title: Pricing
 original_id: pricing
 ---
 
-![Pricing Component](/react-native-elements/img/pricing.png)
+![Pricing Component](/react-native-elements-kpay/img/pricing.png)
 
 ```js
-import { PricingCard } from 'react-native-elements'
+import { PricingCard } from 'react-native-elements-kpay'
 
 <PricingCard
   color='#4f9deb'

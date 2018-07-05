@@ -74,27 +74,27 @@ will help you to be able to triage issues easier and know how to contribute to o
 
 ## Issues
 
-<a class="label first" href="https://github.com/react-native-training/react-native-elements/labels/Good%20First%20Issue">Good First Issue</a>
+<a class="label first" href="https://github.com/react-native-training/react-native-elements-kpay/labels/Good%20First%20Issue">Good First Issue</a>
 
 A well documented issue explaining the tasks needed to accomplish it, that should be suitable for a new contributor to the project
 
-<a class="label bug" href="https://github.com/react-native-training/react-native-elements/labels/bug">Bug</a>
+<a class="label bug" href="https://github.com/react-native-training/react-native-elements-kpay/labels/bug">Bug</a>
 
 The problem reported has been tested and the effect replicated by a maintainer
 
-<a class="label help" href="https://github.com/react-native-training/react-native-elements/labels/Help%20Wanted">Help Wanted</a>
+<a class="label help" href="https://github.com/react-native-training/react-native-elements-kpay/labels/Help%20Wanted">Help Wanted</a>
 
 My code is broken and I don't know why. I need help!
 
-<a class="label question" href="https://github.com/react-native-training/react-native-elements/labels/question">Question</a>
+<a class="label question" href="https://github.com/react-native-training/react-native-elements-kpay/labels/question">Question</a>
 
-Seeking information that doesn't include code. e.g “can I use react navigation with react-native-elements?”
+Seeking information that doesn't include code. e.g “can I use react navigation with react-native-elements-kpay?”
 
-<a class="label reply" href="https://github.com/react-native-training/react-native-elements/labels/Awaiting%20Reply">Awaiting Reply</a>
+<a class="label reply" href="https://github.com/react-native-training/react-native-elements-kpay/labels/Awaiting%20Reply">Awaiting Reply</a>
 
 Maintainer has replied to the user and there's been no response. After 2 weeks any issues with this label should be closed as inactive.
 
-<a class="label fixed" href="https://github.com/react-native-training/react-native-elements/labels/Fixed%20-%20Next%20Release">Fixed Next Released</a>
+<a class="label fixed" href="https://github.com/react-native-training/react-native-elements-kpay/labels/Fixed%20-%20Next%20Release">Fixed Next Released</a>
 
 Issue or feature has been implemented and will be apart of the next npm release
 
@@ -102,19 +102,19 @@ Issue or feature has been implemented and will be apart of the next npm release
 
 ## Pull Requests
 
-<a class="label bug-fix" href="https://github.com/react-native-training/react-native-elements/labels/Bug%20Fix">Bug Fix</a>
+<a class="label bug-fix" href="https://github.com/react-native-training/react-native-elements-kpay/labels/Bug%20Fix">Bug Fix</a>
 
 Fixes a bug reported in an issue
 
-<a class="label response" href="https://github.com/react-native-training/react-native-elements/labels/Needs%20Response%20from%20Author">Needs Response From Author</a>
+<a class="label response" href="https://github.com/react-native-training/react-native-elements-kpay/labels/Needs%20Response%20from%20Author">Needs Response From Author</a>
 
 Maintainer has left feedback on the pull request and it needs a response or a revision made from the author
 
-<a class="label release" href="https://github.com/react-native-training/react-native-elements/labels/RELEASE">RELEASE</a>
+<a class="label release" href="https://github.com/react-native-training/react-native-elements-kpay/labels/RELEASE">RELEASE</a>
 
 Pull request for the next version to be released
 
-<a class="label wip" href="https://github.com/react-native-training/react-native-elements/labels/WIP">WIP</a>
+<a class="label wip" href="https://github.com/react-native-training/react-native-elements-kpay/labels/WIP">WIP</a>
 
 Work In Progress. Author is still working on this PR and it shouldn't be merged or reviewed as yet
 
@@ -122,26 +122,26 @@ Work In Progress. Author is still working on this PR and it shouldn't be merged 
 
 ## Both
 
-<a class="label thoughts" href="https://github.com/react-native-training/react-native-elements/labels/Thoughts%3F">Thoughts?</a>
+<a class="label thoughts" href="https://github.com/react-native-training/react-native-elements-kpay/labels/Thoughts%3F">Thoughts?</a>
 
 Requires discussion for decisions that are unsure
 
-<a class="label docs" href="https://github.com/react-native-training/react-native-elements/labels/docs">Docs</a>
+<a class="label docs" href="https://github.com/react-native-training/react-native-elements-kpay/labels/docs">Docs</a>
 
 Issues or pull requests surrounding documentation
 
-<a class="label enhancement" href="https://github.com/react-native-training/react-native-elements/labels/Enhancement">Enhancement</a>
+<a class="label enhancement" href="https://github.com/react-native-training/react-native-elements-kpay/labels/Enhancement">Enhancement</a>
 
 Suggests and implements improvements or additions to existing components
 
-<a class="label new" href="https://github.com/react-native-training/react-native-elements/labels/New%20Component">New Component</a>
+<a class="label new" href="https://github.com/react-native-training/react-native-elements-kpay/labels/New%20Component">New Component</a>
 
 Suggests or implements a new component
 
-<a class="label types" href="https://github.com/react-native-training/react-native-elements/labels/Types">Types</a>
+<a class="label types" href="https://github.com/react-native-training/react-native-elements-kpay/labels/Types">Types</a>
 
 Issues and pull requests around typescript definitions
 
-<a class="label v1" href="https://github.com/react-native-training/react-native-elements/labels/v1">v1</a>
+<a class="label v1" href="https://github.com/react-native-training/react-native-elements-kpay/labels/v1">v1</a>
 
 Temporary tag associated with the release of version 1.0.0

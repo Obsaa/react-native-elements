@@ -79,7 +79,7 @@ class HomeSplash extends React.Component {
             <Button href={docUrl('overview.html', language)}>
               View Components
             </Button>
-            <Button href="https://expo.io/@monte9/react-native-elements-app">
+            <Button href="https://expo.io/@monte9/react-native-elements-kpay-app">
               Try It Out
             </Button>
           </PromoSection>
@@ -137,7 +137,7 @@ const ExampleApp = props => (
       {
         title: 'See it in action',
         content: `Want to see what it looks like? Be sure to check out our example Expo app which shows all the components action.
-        <br /><br />Get it [here.](https://expo.io/@monte9/react-native-elements-app)`,
+        <br /><br />Get it [here.](https://expo.io/@monte9/react-native-elements-kpay-app)`,
         image: imgUrl('app-preview.png'),
         imageAlign: 'left',
       },
@@ -161,175 +161,175 @@ const OpenCollective = () => (
         Support us with a monthly donation and help us continue our activities.
       </p>
       <a
-        href="https://opencollective.com/react-native-elements/backer/0/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/0/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/0/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/0/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/1/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/1/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/1/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/1/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/2/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/2/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/2/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/2/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/3/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/3/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/3/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/3/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/4/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/4/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/4/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/4/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/5/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/5/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/5/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/5/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/6/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/6/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/6/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/6/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/7/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/7/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/7/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/7/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/8/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/8/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/8/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/8/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/9/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/9/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/9/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/9/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/10/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/10/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/10/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/10/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/11/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/11/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/11/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/11/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/12/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/12/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/12/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/12/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/13/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/13/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/13/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/13/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/14/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/14/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/14/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/14/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/15/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/15/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/15/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/15/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/16/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/16/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/16/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/16/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/17/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/17/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/17/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/17/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/19/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/19/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/19/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/19/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/20/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/20/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/20/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/20/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/21/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/21/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/21/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/21/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/22/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/22/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/22/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/22/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/23/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/23/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/23/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/23/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/24/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/24/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/24/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/24/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/25/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/25/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/25/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/25/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/26/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/26/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/26/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/26/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/27/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/27/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/27/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/27/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements/backer/28/website"
+        href="https://opencollective.com/react-native-elements-kpay/backer/28/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/backer/28/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/backer/28/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements?utm_source=opencollective&utm_medium=github&utm_campaign=react-native-elements#about"
+        href="https://opencollective.com/react-native-elements-kpay?utm_source=opencollective&utm_medium=github&utm_campaign=react-native-elements-kpay#about"
         target="_blank"
       >
         <img src="https://opencollective.com/static/images/become_backer.svg" />
@@ -341,18 +341,18 @@ const OpenCollective = () => (
       <p>
         Become a sponsor and get your logo on our README on Github with a link
         to your site.{' '}
-        <a href="https://opencollective.com/react-native-elements#sponsor">
+        <a href="https://opencollective.com/react-native-elements-kpay#sponsor">
           Become a sponsor
         </a>
       </p>
       <a
-        href="https://opencollective.com/react-native-elements/sponsor/0/website"
+        href="https://opencollective.com/react-native-elements-kpay/sponsor/0/website"
         target="_blank"
       >
-        <img src="https://opencollective.com/react-native-elements/sponsor/0/avatar.svg" />
+        <img src="https://opencollective.com/react-native-elements-kpay/sponsor/0/avatar.svg" />
       </a>
       <a
-        href="https://opencollective.com/react-native-elements?utm_source=opencollective&utm_medium=github&utm_campaign=react-native-elements#about"
+        href="https://opencollective.com/react-native-elements-kpay?utm_source=opencollective&utm_medium=github&utm_campaign=react-native-elements-kpay#about"
         target="_blank"
       >
         <img src="https://camo.githubusercontent.com/f9c02de8584b51d9c8852071760b9f19f3936a0f/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f617065782f73706f6e736f72732f322f617661746172" />

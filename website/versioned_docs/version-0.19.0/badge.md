@@ -4,7 +4,7 @@ title: Badge
 original_id: badge
 ---
 
-![Badges](/react-native-elements/img/badges.png)
+![Badges](/react-native-elements-kpay/img/badges.png)
 
 Example badge usage
 

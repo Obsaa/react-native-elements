@@ -5,10 +5,10 @@ title: Button
 
 Buttons can be used to interact with the screen. It takes the following props.
 
-<img src="/react-native-elements/img/buttons.png" width="300" />
+<img src="/react-native-elements-kpay/img/buttons.png" width="300" />
 
 ```js
-import { Button } from 'react-native-elements';
+import { Button } from 'react-native-elements-kpay';
 import Icon from 'react-native-vector-icons/FontAwesome';
 
 <Button
@@ -186,7 +186,7 @@ displays a centered icon (when no title) or to the left (with text). (can be use
 
 |                                             Type                                              | Default |
 | :-------------------------------------------------------------------------------------------: | :-----: |
-| {[...Icon props](/react-native-elements/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
+| {[...Icon props](/react-native-elements-kpay/docs/icon.html#icon-props)}<br/>**OR**<br/> component |  none   |
 
 ---
 
