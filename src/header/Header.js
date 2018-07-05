@@ -135,7 +135,7 @@ const styles = StyleSheet.create({
   outerContainer: {
     backgroundColor: colors.primary,
     borderBottomColor: '#f2f2f2',
-    borderBottomWidth: 1,
+    // borderBottomWidth: 1,
     paddingHorizontal: 10,
     height: Platform.OS === 'ios' ? 70 : 70 - getStatusBarHeight(),
     ...Platform.select({
